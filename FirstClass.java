@@ -1,3 +1,5 @@
+import ornekler.Ogrenci;
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -102,6 +104,22 @@ public class FirstClass {
             System.out.println(i);
         }
          */
+/*
+Futbolcu ft = new Futbolcu();
+Basketbolcu bsk = new Basketbolcu();
+
+
+        System.out.println(ft.kos());
+        System.out.println(bsk.kos());
+
+ */
+/*
+        ornekler.Ogrenci ogrenci = new Ogrenci();
+
+        System.out.println(ogrenci.kos());
+        System.out.println(ogrenci.konus());
+
+ */
 
 
 
