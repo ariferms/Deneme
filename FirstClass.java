@@ -101,8 +101,9 @@ public class FirstClass {
             System.out.print("İsim Soyisim: ");
             System.out.println(i);
         }
-
          */
+
+
 
     }
 }
